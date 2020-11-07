@@ -1,6 +1,6 @@
 <div align="center">
     <h1> 
-    <img src="/frontend/src/assets/logo.png" alt="logo">
+    <img src="/gitImages/logo.png" alt="logo">
     </h1>
     <a href="HappyWeb/blob/master/LICENSE">
         <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
@@ -38,4 +38,4 @@
 <img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
 <h3 align="center">Web</h3>
-<img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
+<img src="/gitImages/webScreen.png" style="max-width:100%;" alt="Login">
