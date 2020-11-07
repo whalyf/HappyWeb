@@ -2,7 +2,7 @@
     <h1> 
     <img src="/gitImages/logo.png" alt="logo">
     </h1>
-    <a href="HappyWeb/blob/master/LICENSE">
+    <a href="/LICENSE">
         <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
     </a>
 </div>
